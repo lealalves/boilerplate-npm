@@ -4,6 +4,7 @@
   "description": "Projeto que vai ser usado como atividade no freecodecamp",
   "keywords": ["homework", "teste", "freecodecamp"],
   "license": "MIT",
+  "version": "1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
