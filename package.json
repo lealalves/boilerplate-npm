@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
   "author": "Vinicius Alves",
+  "description": "Projeto que vai ser usado como atividade no freecodecamp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
